@@ -6,7 +6,7 @@
 <p align="center">
   React.js · Next.js · Node.js · Express.js · MongoDB <br/>
   Building Scalable Web Apps & REST APIs <br/>
-  JavaScript · TypeScript
+  JavaScript (ES6+) · TypeScript
 </p>
 
 ---
